@@ -1,0 +1,88 @@
+.inicial{
+	font-family: tahoma;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+	background-color: green;
+	font-style: bold;
+}
+
+h2{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	font-style: italic;
+}
+
+
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+
+.cabecalho{
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+	font-size: 15px;
+}
+
+.elenco{
+	text-align: center;
+}
+
+.seuM{
+	background-color: #ADD8E6;
+	color: blue;
+}
+
+.chiq{
+	background-color: #90EE90;
+	color: green;
+}
+
+.quico{
+	color: red;
+	background-color: #FFA07A;
+}
+
+.kiko{
+	color: red;
+}
+
+#madruga{
+	color: blue;
+}
+
+#chiquinha{
+	color: green;
+}
+
+#quico{
+	color: red;
+}
+
+#verde{
+	border: 5px;
+	border-color: #2E8B57;
+	border-style: solid;
+}
+
+#vermelho{
+	border: 5px;
+	border-color: #800000;
+	border-style: solid;
+}
+
+#azul{
+	border: 5px;
+	border-color: #5F9EA0;
+	border-style: solid;
+}
+
